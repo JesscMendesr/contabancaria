@@ -16,7 +16,8 @@ public class Menu {
 		while (true) {
 			
 		
-			System.out.println(Cores.TEXT_PURPLE_BOLD_BRIGHT + Cores.ANSI_WHITE_BACKGROUND+"\n|--------------------------------------------------------|");
+			System.out.println(Cores.TEXT_PURPLE_BOLD_BRIGHT + Cores.ANSI_WHITE_BACKGROUND+
+					"\n|--------------------------------------------------------|");
 			System.out.println("|                     MENU - BANCO JMR                   |");
 			System.out.println("|--------------------------------------------------------|");
 			System.out.println("|          (1) Criar conta                               |");
